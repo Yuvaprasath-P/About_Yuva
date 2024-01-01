@@ -24,7 +24,7 @@ Aspiring Computer Science Engineer with a strong academic background and profici
 
 | Python |  HTML | CSS | JavaScript |C/C++ | MySQL | Unity 3D | Artificial Intelligence - ML & DL|
 |--------|------|-----|----------|-------|------|------|----------------|
-| <img src="img/python.png" style="margin-right: 10px;"width="100" height="100"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="90" height="100"> |<img src="img/cplus.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/sql.png" style="margin-right: 10px;" width="110" height="100"> | <img src="img/unity.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/downloadai.png" style="margin-right: 10px;" width="100" height="100"> |
+| <img src="img/python.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="90" height="100"> |<img src="img/cplus.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/sql.png" style="margin-right: 10px;" width="110" height="100"> | <img src="img/unity.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/downloadai.png" style="margin-right: 10px;" width="100" height="100"> |
 
 ### Projects
 
