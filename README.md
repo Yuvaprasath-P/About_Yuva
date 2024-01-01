@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ### About Me:
 ## Software Engineer | Python Developer | Web Developer | Ethical Hacker
 
-I am a Python Developer and Web developer with a strong background in HTML, CSS, and JavaScript.
+Aspiring Computer Science Engineer with a strong academic background and proficiency in Python. Skilled in front-end development with hands-on projects
 
 ### Skills
 
