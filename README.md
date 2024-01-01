@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvaprasath-p-a53478251/">
-    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/linkedin.jpg" alt="LinkedIn" width="200" height="75" style="margin-right: 30px;">
+    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/linkedin.jpg" alt="LinkedIn" width="200" height="75">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bit.ly/Yuva">
     <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/pf.jpg" alt="Portfolio" width="200" height="75" style="margin-right: 30px;">
