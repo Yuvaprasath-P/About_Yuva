@@ -50,3 +50,8 @@ Feel free to reach out to me:
 - Email: pyuvaprasath@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yuvaprasath-p-a53478251/)
 - Portfolio: [Portfolio Website](https://bit.ly/Yuva)
+
+| Python | AI | Deep Learning | Machine Learning | HTML | CSS | JavaScript | MySQL | Databases |
+|--------|----|----------------|-------------------|------|-----|------------|-------|-----------|
+| <img src="img/python-logo.png" style="margin-right: 10px;"> | <img src="img/ai.jpg" style="margin-right: 10px;"> | <img src="images/deep-learning-logo.png" style="margin-right: 10px;"> | <img src="images/ml-logo.png" style="margin-right: 10px;"> | <img src="img/HTML5.png" style="margin-right: 10px;"> | <img src="img/CSS3.png" style="margin-right: 10px;"> | <img src="images/js-logo.png" style="margin-right: 10px;"> | <img src="images/mysql-logo.png" style="margin-right: 10px;"> | <img src="images/database-logo.png" style="margin-right: 10px;"> |
+
