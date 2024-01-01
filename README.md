@@ -22,13 +22,9 @@ Aspiring Computer Science Engineer with a strong academic background and profici
 
 ### Skills
 
-- Python
-- HTML5
-- CSS3
-- JavaScript
-- C/C++
-- MySQL
-- Unity 3D
+| Python |  HTML | CSS | JavaScript |C/C++ | MySQL | Unity 3D | Artificial Intelligence - ML & DL|
+|--------|------|-----|----------|-------|------|------|----------------|
+| <img src="img/python.png" style="margin-right: 10px;"width="100" height="100"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="90" height="100"> |<img src="img/cplus.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/sql.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/unity.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/downloadai.png" style="margin-right: 10px;" width="100" height="100"> |
 
 ### Projects
 
@@ -50,8 +46,4 @@ Feel free to reach out to me:
 - Email: pyuvaprasath@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yuvaprasath-p-a53478251/)
 - Portfolio: [Portfolio Website](https://bit.ly/Yuva)
-
-| Python |  HTML | CSS | JavaScript |C/C++ | MySQL | Unity 3D | Artificial Intelligence - ML & DL|
-|--------|------|-----|------------|-------|------|------|----------------|
-| <img src="img/python.png" style="margin-right: 10px;"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="100" height="100"> |<img src="img/cplus.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/sql.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/unity.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/downloadai.png" style="margin-right: 10px;" width="100" height="100"> |
 
