@@ -9,7 +9,7 @@
     <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/pf.jpg" alt="Portfolio" width="150" height="75">
   </a>
   <a href="mailto: pyuvaprasath@gmail.com">
-    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/gmail.png" alt="Portfolio" width="150" height="75">
+    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/Gmail.png" alt="email" width="150" height="75">
   </a>
 </p>
 
