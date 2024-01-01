@@ -1,4 +1,4 @@
-![javascript-logo](https://github.com/Yuvaprasath-P/About_Yuva/assets/97957100/7a808311-0780-4e91-9ccf-fff41c5564e5)
+
 # Hello and Welcome 👋, I'm Yuvaprasath 
 
 <p align="center">
