@@ -4,10 +4,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvaprasath-p-a53478251/">
     <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/linkedin.jpg" alt="LinkedIn" width="200" height="75">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bit.ly/Yuva">
     <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/pf.jpg" alt="Portfolio" width="200" height="75" style="margin-right: 30px;">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto: pyuvaprasath@gmail.com">
     <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/Gmail.png" alt="email" width="200" height="75">
   </a>
@@ -24,7 +24,7 @@ Aspiring Computer Science Engineer with a strong academic background and profici
 
 | Python |  HTML | CSS | JavaScript |C/C++ | MySQL | Unity 3D | Artificial Intelligence - ML & DL|
 |--------|------|-----|----------|-------|------|------|----------------|
-| <img src="img/python.png" style="margin-right: 10px;"width="100" height="100"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="90" height="100"> |<img src="img/cplus.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/sql.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/unity.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/downloadai.png" style="margin-right: 10px;" width="100" height="100"> |
+| <img src="img/python.png" style="margin-right: 10px;"width="100" height="100"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="90" height="100"> |<img src="img/cplus.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/sql.png" style="margin-right: 10px;" width="110" height="100"> | <img src="img/unity.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/downloadai.png" style="margin-right: 10px;" width="100" height="100"> |
 
 ### Projects
 
