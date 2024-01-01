@@ -8,6 +8,9 @@
   <a href="https://bit.ly/Yuva">
     <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/pf.jpg" alt="Portfolio" width="150" height="75">
   </a>
+  <a href="mailto: pyuvaprasath@gmail.com">
+    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/gmail.png" alt="Portfolio" width="150" height="75">
+  </a>
 </p>
 
 Welcome to my GitHub profile! I'm passionate about technology and enjoy working on web development projects. Below, you'll find a brief overview of my skills and some of the projects I've worked on.
