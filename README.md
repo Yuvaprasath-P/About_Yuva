@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvaprasath-p-a53478251/">
-    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/linkedin.jpg" alt="LinkedIn" width="100" height="50">
+    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/linkedin.jpg" alt="LinkedIn" width="150" height="75">
   </a>
   <a href="https://bit.ly/Yuva">
-    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/pf.jpg" alt="Portfolio" width="100" height="50">
+    <img src="https://github.com/Yuvaprasath-P/About_Yuva/blob/main/img/pf.jpg" alt="Portfolio" width="150" height="75">
   </a>
 </p>
 
