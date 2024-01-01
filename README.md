@@ -51,7 +51,7 @@ Feel free to reach out to me:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yuvaprasath-p-a53478251/)
 - Portfolio: [Portfolio Website](https://bit.ly/Yuva)
 
-| Python | AI | Deep Learning | Machine Learning | HTML | CSS | JavaScript | MySQL | Databases |
-|--------|----|----------------|-------------------|------|-----|------------|-------|-----------|
-| <img src="img/python-logo.png" style="margin-right: 10px;"> | <img src="img/ai.jpg" style="margin-right: 10px;" width="100" height="100"> | <img src="images/deep-learning-logo.png" style="margin-right: 10px;" width="100" height="100"> | <img src="images/ml-logo.png" style="margin-right: 10px;"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="100" height="100"> | <img src="images/mysql-logo.png" style="margin-right: 10px;"> | <img src="images/database-logo.png" style="margin-right: 10px;"> |
+| Python | Artificial Intelligence | Deep Learning | Machine Learning | HTML | CSS | JavaScript | MySQL |
+|--------|----|----------------|-------------------|------|-----|------------|-------|
+| <img src="img/python.png" style="margin-right: 10px;"> | <img src="img/downloadai.png" style="margin-right: 10px;" width="100" height="100"> | <img src="images/deep-learning-logo.png" style="margin-right: 10px;" width="100" height="100"> | <img src="images/ml-logo.png" style="margin-right: 10px;"> | <img src="img/HTML5.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/CSS3.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/JS.png" style="margin-right: 10px;" width="100" height="100"> | <img src="img/sql.png" style="margin-right: 10px;"> |
 
