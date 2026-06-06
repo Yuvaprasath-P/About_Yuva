@@ -1,14 +1,14 @@
 # Hello and Welcome 👋, I'm Yuvaprasath (Yuva)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuvaprasath-p-a53478251/">
-    <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/linkedin.jpg" alt="LinkedIn" width="200" height="75">
+  <a href="https://www.linkedin.com/in/yuvaprasath-p">
+    <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/square-linkedin-logo2.avif" alt="LinkedIn" width="200" height="120">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bit.ly/Yuva">
-    <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/pf.jpg" alt="Portfolio" width="200" height="75" style="margin-right: 30px;">
+    <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/portfolio-icon2.jpg" alt="Portfolio" width="200" height="120">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pyuvaprasath@gmail.com">
-    <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/Gmail.png" alt="email" width="200" height="75">
+    <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/gmail-icon2.webp" alt="email" width="200" height="120">
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Contributed heavily to an enterprise-grade banking application managing the life
 Let's collaborate or talk tech! 
 
 - **Email:** [pyuvaprasath@gmail.com](mailto:pyuvaprasath@gmail.com)
-- **LinkedIn:** [Yuvaprasath P](https://www.linkedin.com/in/yuvaprasath-p-a53478251/)
+- **LinkedIn:** [Yuvaprasath P](https://www.linkedin.com/in/yuvaprasath-p)
 - **Portfolio:** [Portfolio Website](https://bit.ly/Yuva)
 
 <p align="center">🕵️‍♂️ <i>"Building robust interfaces, one component at a time."</i></p>
