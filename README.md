@@ -31,7 +31,6 @@ I am a working professional with 2 years of experience in the **BFSI (Banking an
 | :--- | :--- | :--- |
 | **Languages:** TypeScript, JavaScript, HTML5, CSS3<br>**Frameworks:** Angular (2+), Bootstrap, LESS<br>**State/Streams:** RxJS, Reactive Forms | **Framework:** Spring Boot (Java)<br>**Database:** MySQL<br>**APIs:** RESTful Services, Postman | **Version Control:** Git, GitHub<br>**CI/CD:** Jenkins<br>**Project Management:** JIRA, Agile/Scrum |
 
-*(Note: If you want to keep your icon matrix table, you can use the layout below to include your updated stack!)*
 
 | Angular | TypeScript | RxJS | Spring Boot | HTML5 / CSS3 | MySQL | Git |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
