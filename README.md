@@ -1,13 +1,13 @@
 # Hello and Welcome 👋, I'm Yuvaprasath (Yuva)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuvaprasath-p">
+  <a href="https://www.linkedin.com/in/yuvaprasath-p" target="_blank">
     <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/square-linkedin-logo2.avif" alt="LinkedIn" width="200" height="120">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bit.ly/Yuva">
+  <a href="https://bit.ly/Yuva" target="_blank">
     <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/portfolio-icon2.jpg" alt="Portfolio" width="200" height="120">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pyuvaprasath@gmail.com">
+  <a href="mailto:pyuvaprasath@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Yuvaprasath-P/About_Yuva/main/img/gmail-icon2.webp" alt="email" width="200" height="120">
   </a>
 </p>
